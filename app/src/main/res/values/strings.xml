@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">TestInspire</string>
+
+
+    <!--Bible Quotes-->
+    <string-array name="bible_quotes">
+        <item>"For I know the plans I have for you,declares the LORD,plans to prosper you and not to harm you,plans to give you hope and a future. - Jeremiah 29:11"</item>
+        <item>"I can do all things through Christ who strengthens me." - Philippians 4:13</item>
+        <item>"For those who exalt themselves will be humbled, and those who humble themselves will be exalted." - Matthew 23:12</item>
+        <item>"Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven." - Matthew 5:10</item>
+        <item>"So in everything, do to others what you would have them do to you, for this sums up the law and the prophets." - Matthew 7:12 </item>
+        <item>"I have told you these things, so that in me you may have peace. In this world you will have trouble.But take heart! I have overcome the world." - John 16:33 </item>
+        <item>"Jesus looked at them and said, "With man this is impossible, but with God all things are possible." - Matthew 19:26 </item>
+        <item>"God promises to make something good out of the storms that bring devastation to your life." - Romans 8:28 </item>
+        <item>"With all your heart you must trust the Lord and not your own judgment. Always let Him lead you, and He will clear the road for you to follow."  - Proverbs 3:5-6 </item>
+        <item>"Train up a child in the way he should go, and when he is old, he will not depart from it." - Proverbs 22:6 </item>
+        <item>"Cast all your anxiety on him because he cares for you." - 1 Peter 5:7 </item>
+        <item>“Whatever you do, work heartily, as for the Lord and not for men. - Colossians 3:23</item>
+        <item>“Do all things without grumbling or disputing, that you may be blameless and innocent, children of God without blemish in the midst of a crooked and twisted generation, among whom you shine as lights in the world.” - Philippians 2:14-15</item>
+        <item>“But if anyone has the world’s goods and sees his brother in need, yet closes his heart against him, how does God’s love abide in him?” - 1 John 3:17</item>
+        <item>Commit to the LORD whatever you do, and he will establish your plans.   - Proverbs 16:3</item>
+        <item>But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.  - Isaiah 40:31</item>
+
+
+    </string-array>
+
+    <!--Bhagavad Gita-->
+
+    <string-array name="gita_quotes">
+        <item>"If you perform the sacrifice of doing your duty, you do not have to do anything else. Devoted to duty, man attains perfection."</item>
+        <item>Set thy heart upon thy work but never its reward.</item>
+        <item>No one should abandon duties because he sees defects in them. Every action, every activity, is surrounded by defects as a fire is surrounded by smoke.</item>
+        <item>When meditation is mastered, the mind is unwavering, like the flame of a lamp in a windless place.</item>
+        <item>No one who does good work will ever come to a bad end, either here or in the world to come.</item>
+        <item>It is Nature that causes all movement. Deluded by the ego, the fool harbors the perception that says “I did it”.</item>
+        <item>One has to learn tolerance in the face of dualities such as happiness and distress, or cold and warmth, and by tolerating such dualities become free from anxieties regarding gain and loss.</item>
+        <item>The power of God is with you at all times; through the activities of mind, senses, breathing, and emotions; and is constantly doing all the work using you as a mere instrument.</item>
+        <item>The offering of wisdom is better than any material offering.</item>
+        <item>You have the right to work, but never to the fruit of work. You should never engage in action for the sake of reward, nor should you long for inaction.</item>
+        <item>Those who are motivated only by desire for the fruits of action are miserable, for they are constantly anxious about the results of what they do.</item>
+        <item>Pleasures conceived in the world of the senses have a beginning and an end and give birth to misery.</item>
+        <item>Even if you were the most sinful of sinners, you could cross beyond all sin by the raft of spiritual wisdom.</item>
+        <item>Calmness, gentleness, silence, self-restraint, and purity: these are the disciplines of the mind.</item>
+        <item>Whatever happened was good, what’s happening, it’s going well, whatever will happen, will also be good. You need not have any regrets from the past. Do not worry for the future. Live in the present.</item>
+        <item>What have you lost that you cry for? What did you bring, that you have lost? What did you create that was destroyed? What you have taken has been from here, what you gave has been given here. What belongs to you today belonged to someone yesterday and will be someone else’s tomorrow. Change is the law of the universe.</item>
+        <item>The meaning of Karma is in the intention. The intention behind action is what matters.</item>
+        <item>Only when a person responds to the joys and sorrows of others as if they were his own, he has attained the highest state of spiritual union.</item>
+
+
+    </string-array>
+
+    <string-array name="quran_quotes">
+        <item>Allah does not burden a soul beyond that it can bear. – Surah Baqarah – V 286</item>
+        <item>And Allah would not punish them while they seek forgiveness. | Surah Al-Anfal 8:33</item>
+        <item>And He has made me blessed wherever I am. | Surah Maryam 19:31</item>
+        <item>Indeed, those who have believed and done righteous deeds will have gardens beneath which rivers flow that is a great attainment. | Surah al-Buruj 85:11</item>
+        <item>It may be that you dislike a thing which is good for you and that you like a thing which is bad for you. Allah knows but you do not know. | Surah Al-Baqarah 2:216</item>
+        <item>But they plans, and Allah plans. And Allah is the best of planners. | Surah Ali ‘Imran (3:54)</item>
+
+
+    </string-array>
+
+    <string-array name="buddha_quotes">
+        <item>Every morning we are born again. What we do today is what matters most.”</item>
+        <item>Holding onto anger is like drinking poison and expecting the other person to die.</item>
+        <item>No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.</item>
+        <item>If you are quiet enough, you will hear the flow of the universe. You will feel its rhythm. Go with this flow. Happiness lies ahead. Meditation is key.</item>
+        <item>To conquer oneself is a greater task than conquering others.</item>
+        <item>Set your heart on doing good. Do it over and over again and you will be filled with joy.</item>
+        <item>The root of suffering is attachment.</item>
+        <item>Three things cannot be long hidden: the sun, the moon, and the truth.</item>
+        <item>If you light a lamp for somebody, it will also brighten your path.</item>
+        <item>In separateness lies the world’s greatest misery; in compassion lies the world’s true strength.</item>
+        <item>It is a man’s own mind, not his enemy or foe, that lures him to evil ways.</item>
+        <item>There is nothing so disobedient as an undisciplined mind, and there is nothing so obedient as a disciplined mind.</item>
+        <item>Your worst enemy cannot harm you as much as your own unguarded thoughts.</item>
+        <item>You will not be punished for your anger, you will be punished by your anger.</item>
+        <item>The secret of health for both mind and body is not to mourn for the past, worry about the future, or anticipate troubles, but to live in the present moment wisely and earnestly.</item>
+        <item>If the problem can be solved why worry? If the problem cannot be solved worrying will do you no good.”</item>
+        <item>Nothing ever exists entirely alone; everything is in relation to everything else.</item>
+        <item>Nothing is permanent.</item>
+        <item>Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.</item>
+
+
+    </string-array>
+
+    <string name="title_activity_home">MainActivity</string>
+
+
+</resources>

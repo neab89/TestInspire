@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="a.com.testinspire.DetailActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/relativelayout_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+        <TextView
+            android:id="@+id/quote_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textStyle="bold|italic"
+            android:textColor="@color/yellow"
+            android:fontFamily="casual"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/fab"
+            android:gravity="center"
+            android:layout_marginBottom="20dp">
+
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:text="Previous"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:layout_marginRight="16dp"
+                android:onClick="previousQuote"
+                android:textAllCaps="false"
+                android:fontFamily="casual"/>
+
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:text="Next"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/white"
+                android:src="@drawable/ic_action_next"
+                android:onClick="nextQuote"
+                android:textAllCaps="false"
+                android:fontFamily="casual"/>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:src="@drawable/ic_action_homefab"
+            android:layout_marginBottom="16dp"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/green_wood_plain"
+            tools:context="a.com.testinspire.MainActivity"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/bible_btn"
+                    android:text="Bible"
+                    android:textSize="30sp"
+                    android:layout_width="270dp"
+                    android:layout_height="60dp"
+                    android:background="@drawable/button_shape"
+                    android:shadowColor="#A8A8A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="casual"
+                    android:textAllCaps="false"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimary"
+                    android:backgroundTint="@color/white"/>
+
+                <Button
+                    android:id="@+id/gita_btn"
+                    android:text="Bhagavad Gita"
+                    android:textSize="30sp"
+                    android:layout_width="270dp"
+                    android:layout_height="60dp"
+                    android:background="@drawable/button_shape"
+                    android:shadowColor="#A8A8A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="casual"
+                    android:textAllCaps="false"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimary"
+                    android:backgroundTint="@color/white"/>
+
+                <Button
+                    android:id="@+id/quran_btn"
+                    android:text="Quran"
+                    android:textSize="30sp"
+                    android:layout_width="270dp"
+                    android:layout_height="60dp"
+                    android:background="@drawable/button_shape"
+                    android:shadowColor="#A8A8A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="casual"
+                    android:textAllCaps="false"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimary"
+                    android:backgroundTint="@color/white"/>
+
+                <Button
+                    android:id="@+id/buddha_btn"
+                    android:text="Buddha"
+                    android:textSize="30sp"
+
+                    android:layout_width="270dp"
+                    android:layout_height="60dp"
+                    android:background="@drawable/button_shape"
+                    android:shadowColor="#A8A8A8"
+                    android:shadowDx="0"
+                    android:shadowDy="0"
+                    android:shadowRadius="5"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="casual"
+                    android:textAllCaps="false"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimary"
+                    android:backgroundTint="@color/white"/>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
